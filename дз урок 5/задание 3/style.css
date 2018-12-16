@@ -1,0 +1,8 @@
+@import "all.min.css";
+
+div p{
+	color:red;
+}
+#first>p{
+	background:blue;
+}

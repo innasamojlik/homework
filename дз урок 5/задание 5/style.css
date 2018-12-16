@@ -1,0 +1,8 @@
+@import "all.min.css";
+
+[required]{
+	color: red;
+}
+input[type="text"]{
+	background:blue;
+}
