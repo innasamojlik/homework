@@ -1,0 +1,10 @@
+@import "all.min.css";
+span1{
+	font-weight: bold;
+}
+span2{
+	font-style: italic;
+}
+p{
+	font-size: 2em;
+}

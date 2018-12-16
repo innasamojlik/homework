@@ -1,0 +1,19 @@
+@import "all.min.css";
+p{
+	color: blue;
+}
+p{
+	color: #00f;
+}
+p{
+	color: rgb(0, 0, 255);
+}
+p{
+	color: hsl(240, 100%, 50%); 
+}
+body{
+	color:rgb(0, 0, 255, 0.3);
+}
+body{
+	color:hsl(240, 100%, 50%, 0.3);
+}

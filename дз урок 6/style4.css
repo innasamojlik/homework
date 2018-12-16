@@ -1,0 +1,8 @@
+@import "all.min.css";
+
+p{
+	text-transform: capitalize;
+}
+span{
+	text-decoration: underline overline line-through;
+}

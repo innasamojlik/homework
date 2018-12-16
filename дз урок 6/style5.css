@@ -1,0 +1,11 @@
+@import "all.min.css";
+
+p{
+	word-spacing: 20px;
+}
+span1{
+	letter-spacing: 5px;
+}
+span2{
+	text-shadow: 5px 5px 2px red;
+}
