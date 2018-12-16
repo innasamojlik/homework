@@ -1,0 +1,42 @@
+.content{
+	height:300px;
+	width: 300px;
+	
+	}
+.one{
+	height: 150px;
+	width: 150px;
+	float: left;
+	outline: 3px dotted red;
+	outline-offset: -10px;
+	background-image: repeating-radial-gradient( at 150px 150px, white, black
+20px);
+	
+}
+.two{
+	height: 150px;
+	width: 150px;
+	float: right;
+	outline: 3px dotted blue;
+	outline-offset: -10px;
+	background-image: repeating-radial-gradient( at 0px 150px, black, white
+20px);
+}
+.three{
+	height: 150px;
+	width: 150px;
+	float: left;
+	outline: 3px dotted blue;
+	outline-offset: -10px;
+	background-image: repeating-radial-gradient( at 150px 0px, black, white
+20px);
+}
+.four{
+	height: 150px;
+	width: 150px;
+	float: right;
+	outline: 3px dotted red;
+	outline-offset: -10px;
+	background-image: repeating-radial-gradient( at 0px 0px, white, black
+20px);
+}
