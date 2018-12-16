@@ -1,0 +1,16 @@
+@media (min-width: 992px){
+div{
+	border: 2px solid black;
+	padding: 2px;
+}
+.one{
+	float:left
+}
+.two{
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	width:60%;
+}
+}
+

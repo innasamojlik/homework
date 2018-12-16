@@ -1,0 +1,17 @@
+
+@media (min-width: 768px) {
+div{
+	border: 2px solid black;
+	padding: 2px;
+}
+.one{
+	float:left
+}
+.two{
+	float:left;
+	width:60%;
+}
+.three{
+	float: none;
+}
+}
