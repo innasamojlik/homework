@@ -1,0 +1,23 @@
+div{
+	border: 2px solid black;
+	width: 12%;
+	height: 20px;
+}
+.one{
+	float: right;
+}
+.two{
+	float: left;
+}
+.three{
+	float: right;
+}
+.four{
+	float: left;
+}
+.five{
+	float: right;
+}
+.six{
+	float: left;
+}

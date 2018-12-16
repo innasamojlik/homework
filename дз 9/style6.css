@@ -1,0 +1,42 @@
+.one ul{ 
+
+list-style-type: none;
+}
+.one li{
+	display:inline-block;
+	float: left;
+}
+
+.one ul a {
+display: block;
+width: 100px;
+padding: 5px;
+border: 1px solid black;
+text-decoration: none;
+text-align: center;
+background-color: green;
+color: white;
+}
+
+.three ul{ 
+
+list-style-type: none;
+}
+.three ul a {
+display: block;
+width: 100px;
+padding: 5px;
+border: 1px solid black;
+text-decoration: none;
+text-align: center;
+background-color: green;
+color: white;
+}
+.three li{
+	display:inline-block;
+	float: left;
+}
+.four li{
+	float:left;
+	display:inline-block;
+}

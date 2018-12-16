@@ -1,0 +1,21 @@
+div{
+	
+}
+.one{
+	float: right;
+	width: 20%;
+	background-color: green;
+}
+.two{
+	background-color: red;
+	margin-right: 20%;
+}
+.three{
+	float: left;
+	background-color: green;
+	width: 20%;
+}
+.four{
+	background-color: red;
+	margin-left: 20%;
+}

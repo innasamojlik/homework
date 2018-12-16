@@ -1,0 +1,14 @@
+.A{
+	display: inline-block;
+	padding: 10px;
+	margin: 10px;
+}
+.block1{
+	display: block;
+}
+.block2{
+	display:inline;
+}
+.block3{
+	display:inline-block;
+}

@@ -1,0 +1,16 @@
+.one , .two{
+	width: 40%;
+	background:red;
+	height: 60px
+
+}
+.one{
+	float: left;
+	
+}
+.two{
+	float:right;
+}
+.three{
+		float: left;
+	}

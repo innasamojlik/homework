@@ -1,0 +1,32 @@
+body{
+	height: 50px;
+}
+.oneq{
+
+	float: left;
+	width: 25%;
+}
+.one{
+	height: 54px;
+	margin-left: 25%;
+}
+.two{
+	float: right;
+	width: 30%;
+}
+.three{
+	margin-left:0%;
+	margin-right:30%;
+}
+.four{
+	float: right;
+	width: 40%;
+}
+.five{
+	float: left;
+	width: 40%;
+}
+.six{
+	margin-left:40%;
+	margin-right:40%;
+}
