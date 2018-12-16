@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+	<head>
+		<title>Контейнер. Направление. Несколько рядов.
+Порядок элементов</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" >
+	<style>
+ div {
+ padding: 5px;
+border: 2px solid black;
+margin: 5px;
+ }
+ .flex-container {
+ height: 400px;
+ display: flex;
+ flex-flow: column wrap;
+ align-content: flex-end;
+ justify-content: space-between;
+ }
+ .flex1{
+ width: 100px;
+  }
+  .flex2{
+  width: 100px;
+  align-self: center;
+  }
+  .flex4{
+  width: 100px;
+  align-self: center;
+  }
+  .flex5{
+  width: 100px;
+  align-self: flex-end;
+  }
+ </style>
+ </head>
+ <body>
+ <div class="flex-container">
+ <div class="flex1">Flex item 1</div>
+ <div class="flex2">Flex item 2</div>
+ <div>Flex item 3</div>
+ <div class="flex4">Flex item 4</div>
+ <div class="flex5">Flex item 5</div>
+ </div>
+ </body>
+</html>
