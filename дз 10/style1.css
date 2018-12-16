@@ -1,0 +1,16 @@
+body {
+ width: 1000px;
+ }
+ .aside {
+ width: 25%;
+float: left;
+border: dashed 2px;
+box-sizing: border-box;
+padding:10px;
+ }
+ .main {
+ margin-left: 25%;
+ border: solid 5px;
+ box-sizing: border-box;
+ padding: 10px;
+ }

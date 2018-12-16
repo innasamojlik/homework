@@ -1,0 +1,37 @@
+.container{
+ width: 100px;
+ height: 100px;
+ color: white;
+
+ }
+.one{
+	background: red;
+	position:relative;
+	width: 50px;
+	height: 50px;
+	top: 50px;
+	left: 50px;
+}
+.two{
+	background: green;
+	width: 50px;
+	height: 50px;
+	position: relative;
+	top:-50px;
+}
+.three{
+	background: blue;
+	width: 50px;
+	height: 50px;
+	left: 50px;
+	position:relative;
+	top: -100px;
+}
+.four{
+	background: black;
+	position:relative;
+	width: 50px;
+	height: 50px;
+	top: -100px;
+	
+}
